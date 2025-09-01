@@ -1,6 +1,5 @@
 -- Lab Experiment 01: Implementation of DDL Commands in SQL
 -- STUDENT NAME: Esheshwari Kumari;
--- USN: RUA24BCA0025;
 -- SECTION: A;
 
 SELECT USER(), 
